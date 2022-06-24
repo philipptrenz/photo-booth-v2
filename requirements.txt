@@ -1,0 +1,6 @@
+eventlet==0.33.0
+Flask==2.0.2
+Flask-Cors==3.0.10
+Flask-SocketIO==5.1.1
+gphoto2==2.3.2
+Pillow==9.0.1
